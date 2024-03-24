@@ -451,6 +451,15 @@ section .pepe1{
 .footer__img{
     width: 30px;
 }
+#diegopues{
+    width: 500px;
+}
+#ramirez{
+    width:  80%;
+}
+.diegosawss{
+    width: 10111px;
+}
 
 /* Media queries */
 
@@ -561,6 +570,15 @@ section .pepe1{
     .footer__input{
         flex: 1;
     }
+    #diegopues{
+        width: 100%;
+    }
+    #ramirez{
+        width:  100%;
+    }
+    #ramirez{
+        width:  80%;
+    }
 
 }
 
@@ -569,6 +587,12 @@ section .pepe1{
         font-size: 2rem;
     }
 
+    #diegopues{
+        width: 100%;
+    }
+    #ramirez{
+        width:  100%;
+    }
     .hero__paragraph{
         font-size: 1rem;
     }
